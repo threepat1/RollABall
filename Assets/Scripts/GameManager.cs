@@ -29,6 +29,7 @@ public class GameManager : MonoBehaviour
     public void AddScore(int scoreToAdd)
     {
         score += scoreToAdd;
+
         // ... Update Score Text
         // ... Play a sound
     }
